@@ -1,4 +1,4 @@
-# socialmedia
+# Manipal SocialMedia App
 
 A new Flutter application.
 
